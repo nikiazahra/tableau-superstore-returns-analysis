@@ -2,7 +2,7 @@
 
 Built this as part of my data analytics coursework. 
 Used Tableau to look into return patterns from the 
-Superstore dataset — wanted to understand which states 
+Superstore dataset, wanted to understand which states 
 and products had the most returns.
 
 ## What I did
@@ -10,7 +10,7 @@ Joined the Orders and Returns tables in Tableau, then
 built a few visualizations to find patterns in the data.
 
 ## What I found
-- California had the most returns by far — 127 out of 296 total
+- California had the most returns by far, 127 out of 296 total
 - The most returned product in California was the 
   Acco Six-Outlet Power Strip 4' Cord Length
 - Office Supplies had the highest returns by category (234)
