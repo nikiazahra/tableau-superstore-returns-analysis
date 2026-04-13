@@ -1,7 +1,3 @@
-# tableau-superstore-returns-analysis
-Descriptive analytics on Superstore dataset using Tableau — analyzing product return patterns by state and category
-# 📊 Superstore Returns Analysis – Tableau
-
 # 📊 Superstore Returns Analysis – Tableau
 
 ## Overview
@@ -19,23 +15,29 @@ joined on Order ID.
 
 ## 🔍 Key Findings
 - **State with highest returns:** California (127 returns)
-- **Top returned product:** Acco Six-Outlet Power Strip 
-  4' Cord Length
+- **Top returned product:** Acco Six-Outlet Power Strip 4' Cord Length
 - **Most returned category:** Office Supplies (234 returns)
-- **Trend:** Returns show an upward trend from 2014–2017 
-  with seasonal spikes in Q4
-
-## 📊 Visualizations
-| Chart | Description |
-|---|---|
-| 🗺️ Map | Returns count by US state |
-| 📊 Bar Chart | States ranked by return count |
-| 🟦 Treemap | Returns by product category |
-| 📈 Line Chart | Returns trend over time |
-| 🏅 Top 10 | Most returned products |
+- **Trend:** Returns show an upward trend from 2014–2017 with seasonal spikes in Q4
 
 ## 🌐 Live Dashboard
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/SuperstoreReturnsAnalysis_17760644661490/Dashboard1)
+
+## 📊 Visualizations
+
+### 🗺️ Map Visualization — Returns by State
+![Map](map.png)
+
+### 📊 Bar Chart — States Ranked by Returns
+![Bar Chart](barchart.png)
+
+### 🟦 Treemap — Returns by Category
+![Treemap](treemap.png)
+
+### 📈 Trend Line — Returns Over Time
+![Trend](trend.png)
+
+### 🏅 Top 10 Most Returned Products
+![Top 10](top10.png)
 
 ## 💡 Skills Demonstrated
 - Data joining in Tableau
