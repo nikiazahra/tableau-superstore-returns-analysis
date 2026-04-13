@@ -2,6 +2,8 @@
 Descriptive analytics on Superstore dataset using Tableau — analyzing product return patterns by state and category
 # 📊 Superstore Returns Analysis – Tableau
 
+# 📊 Superstore Returns Analysis – Tableau
+
 ## Overview
 Descriptive analytics project using Tableau to analyze 
 product return patterns from the Sample Superstore dataset.
@@ -33,7 +35,7 @@ joined on Order ID.
 | 🏅 Top 10 | Most returned products |
 
 ## 🌐 Live Dashboard
-[View Interactive Dashboard on Tableau Public](PASTE YOUR LINK HERE)
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/SuperstoreReturnsAnalysis_17760644661490/Dashboard1)
 
 ## 💡 Skills Demonstrated
 - Data joining in Tableau
