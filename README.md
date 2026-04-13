@@ -1,48 +1,47 @@
-# 📊 Superstore Returns Analysis – Tableau
+# Superstore Returns Analysis
 
-## Overview
-Descriptive analytics project using Tableau to analyze 
-product return patterns from the Sample Superstore dataset.
-Performed as part of CSC4404 Data Analytics coursework.
+Built this as part of my data analytics coursework. 
+Used Tableau to look into return patterns from the 
+Superstore dataset — wanted to understand which states 
+and products had the most returns.
 
-## 🛠️ Tools Used
-- Tableau Public
-- Microsoft Excel (.xls)
+## What I did
+Joined the Orders and Returns tables in Tableau, then 
+built a few visualizations to find patterns in the data.
 
-## 📂 Dataset
-Sample Superstore dataset — Orders and Returns tables 
-joined on Order ID.
+## What I found
+- California had the most returns by far — 127 out of 296 total
+- The most returned product in California was the 
+  Acco Six-Outlet Power Strip 4' Cord Length
+- Office Supplies had the highest returns by category (234)
+- Returns have been trending upward from 2014 to 2017
 
-## 🔍 Key Findings
-- **State with highest returns:** California (127 returns)
-- **Top returned product:** Acco Six-Outlet Power Strip 4' Cord Length
-- **Most returned category:** Office Supplies (234 returns)
-- **Trend:** Returns show an upward trend from 2014–2017 with seasonal spikes in Q4
+## Visualizations
+- Map showing return counts across US states
+- Bar chart ranking states by returns
+- Treemap breaking down returns by category
+- Line chart showing return trend over time
+- Top 10 most returned products
 
-## 🌐 Live Dashboard
-[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/SuperstoreReturnsAnalysis_17760644661490/Dashboard1)
+## Live Dashboard
+[View on Tableau Public](https://public.tableau.com/views/SuperstoreReturnsAnalysis_17760644661490/Dashboard1)
 
-## 📊 Visualizations
+## Tools
+Tableau Public, Excel
 
-### 🗺️ Map Visualization — Returns by State
+---
+
+### Map Visualization
 ![Map](map.png)
 
-### 📊 Bar Chart — States Ranked by Returns
+### Bar Chart
 ![Bar Chart](barchart.png)
 
-### 🟦 Treemap — Returns by Category
+### Treemap
 ![Treemap](treemap.png)
 
-### 📈 Trend Line — Returns Over Time
+### Trend Over Time
 ![Trend](trend.png)
 
-### 🏅 Top 10 Most Returned Products
+### Top 10 Products
 ![Top 10](top10.png)
-
-## 💡 Skills Demonstrated
-- Data joining in Tableau
-- Geographic map visualization
-- Treemap and bar chart creation
-- Time series trend analysis
-- Descriptive analytics
-- Data-driven insight communication
